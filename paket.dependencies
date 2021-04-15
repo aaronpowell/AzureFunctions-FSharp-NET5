@@ -1,0 +1,9 @@
+source https://api.nuget.org/v3/index.json
+
+storage: none
+framework: net5.0
+nuget FSharp.Core
+nuget Microsoft.Azure.Functions.Worker
+nuget Microsoft.Azure.Functions.Worker.Extensions.Http
+nuget Microsoft.Azure.Functions.Worker.Sdk
+nuget Ply
